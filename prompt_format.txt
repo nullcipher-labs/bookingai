@@ -1,0 +1,9 @@
+I'm going to give you a description of a room I got on booking.com, and ask you a yes or no question.
+PLEASE answer only with the word "yes" or "no", no further explanations or summaries.
+
+This is the description:
+@@@@@
+
+the question is:
+&&&&&
+please reply "yes" only if you are SURE of the answer
