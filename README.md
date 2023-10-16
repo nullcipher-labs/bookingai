@@ -37,4 +37,4 @@ this little demo could be expanded to more general questions (not just yes or no
 2. through testing, it proved that asking chatgpt about each room/listing in a separate prompt, instead of all of them together, improves accuracy. that's why it is done like that in the code.
 
 # the input_outputs folder
-this folder contains an example of a csv file with results from the booking bot, and an example of a txt file containing seatch parameters for the booking bot.
+this folder contains an example of a csv file with results from the booking bot, and an example of a txt file containing search parameters for the booking bot.
