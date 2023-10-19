@@ -14,6 +14,15 @@ For example, if the booking.com GUI does not show whether the listing is close t
 
 chatgpt has the capability to deduce from free text the answers to such questions, and can be automated. 
 
+# prerequisites
+selenium<br>https://pypi.org/project/selenium/<br>pip install -U selenium
+<br><br>
+pandas<br>https://pandas.pydata.org/docs/getting_started/install.html<br>pip install pandas
+<br><br>
+openai<br>https://github.com/openai/openai-python
+<br><br>
+dateutil<br>https://pypi.org/project/python-dateutil/<br>pip install python-dateutil
+
 # future features
 this little demo could be expanded to more general questions (not just yes or no), include a comfortable GUI etc.
 
